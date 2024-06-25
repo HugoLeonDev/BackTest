@@ -3,6 +3,11 @@
 Este es un proyecto para demostrar el uso de pruebas unitarias,
 se hace uso de spring boot, jpa, Mockito
 
+## Requisitos minimos
+
+1. Java 17
+2. Maven
+
 ## Configuración
 
 Para configurar este proyecto en tu máquina local, sigue los siguientes pasos:
