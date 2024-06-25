@@ -1,6 +1,7 @@
-# Nombre de tu Proyecto
+# Pruebas unitaria en Java
 
-Este es un proyecto para demostrar el uso de pruebas unitarias
+Este es un proyecto para demostrar el uso de pruebas unitarias,
+se hace uso de spring boot, jpa, Mockito
 
 ## Configuración
 
